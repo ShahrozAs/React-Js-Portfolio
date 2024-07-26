@@ -19,8 +19,8 @@ const Portfolio = () => {
           <h3>Amazone Clone</h3>
          <div className="btns">
 
-          <a href="https://github.com/ShahrozAs/amazon-clone" target='_blank' className='btn' >Github</a>
-          <a href="https://clone-2a2d6.web.app/" target='_blank' className='btn btn-primary'>Live Demo</a>
+          <a rel="noreferrer" href="https://github.com/ShahrozAs/amazon-clone" target='_blank' className='btn' >Github</a>
+          <a rel="noreferrer" href="https://clone-2a2d6.web.app/" target='_blank' className='btn btn-primary'>Live Demo</a>
          </div>
         </article>
         <article className='portfolio_item'>
@@ -30,8 +30,8 @@ const Portfolio = () => {
           <h3>UrbanElegance E-commerce Web-App</h3>
          <div className="btns">
 
-          <a href="https://github.com/ShahrozAs/Ecommerce-app-in-React-Js" target='_blank' className='btn' >Github</a>
-          <a href="https://ecommerce-app-in-react-js.web.app/" target='_blank' className='btn btn-primary'>Live Demo</a>
+          <a rel="noreferrer" href="https://github.com/ShahrozAs/Ecommerce-app-in-React-Js" target='_blank' className='btn' >Github</a>
+          <a rel="noreferrer" href="https://ecommerce-app-in-react-js.web.app/" target='_blank' className='btn btn-primary'>Live Demo</a>
          </div>
         </article>
         <article className='portfolio_item'>
@@ -41,8 +41,8 @@ const Portfolio = () => {
           <h3>Shopper E-commerce Web-App</h3>
          <div className="btns">
 
-          <a href="https://github.com/ShahrozAs/React-ecommerce-app" target='_blank' className='btn' >Github</a>
-          <a href="https://shopper-ecommerce-web-app.web.app/" target='_blank' className='btn btn-primary'>Live Demo</a>
+          <a rel="noreferrer" href="https://github.com/ShahrozAs/React-ecommerce-app" target='_blank' className='btn' >Github</a>
+          <a rel="noreferrer" href="https://shopper-ecommerce-web-app.web.app/" target='_blank' className='btn btn-primary'>Live Demo</a>
          </div>
         </article>
         <article className='portfolio_item'>
@@ -52,8 +52,8 @@ const Portfolio = () => {
           <h3>News Monkey</h3>
          <div className="btns">
 
-          <a href="https://github.com/ShahrozAs/newsapp" target='_blank' className='btn' >Github</a>
-          <a href="https://news-monkey-3bde6.web.app/" target='_blank' className='btn btn-primary'>Live Demo</a>
+          <a rel="noreferrer" href="https://github.com/ShahrozAs/newsapp" target='_blank' className='btn' >Github</a>
+          <a rel="noreferrer" href="https://news-monkey-3bde6.web.app/" target='_blank' className='btn btn-primary'>Live Demo</a>
          </div>
         </article>
         <article className='portfolio_item'>
@@ -63,8 +63,8 @@ const Portfolio = () => {
           <h3>Netflix Clone</h3>
          <div className="btns">
 
-          <a href="https://github.com/ShahrozAs/Netflix-clone" target='_blank' className='btn' >Github</a>
-          <a href="https://netflix-clone-6fbdc.web.app/" target='_blank' className='btn btn-primary'>Live Demo</a>
+          <a rel="noreferrer" href="https://github.com/ShahrozAs/Netflix-clone" target='_blank' className='btn' >Github</a>
+          <a rel="noreferrer" href="https://netflix-clone-6fbdc.web.app/" target='_blank' className='btn btn-primary'>Live Demo</a>
          </div>
         </article>
         <article className='portfolio_item'>
@@ -74,8 +74,8 @@ const Portfolio = () => {
           <h3>Spotify Clone</h3>
          <div className="btns">
 
-          <a href="https://github.com/ShahrozAs/Spotify-clone" target='_blank' className='btn' >Github</a>
-          <a href="https://spotify-clone-518fd.web.app/" target='_blank' className='btn btn-primary'>Live Demo</a>
+          <a rel="noreferrer" href="https://github.com/ShahrozAs/Spotify-clone" target='_blank' className='btn' >Github</a>
+          <a rel="noreferrer" href="https://spotify-clone-518fd.web.app/" target='_blank' className='btn btn-primary'>Live Demo</a>
          </div>
         </article>
       </div>
