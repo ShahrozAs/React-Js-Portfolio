@@ -62,7 +62,11 @@ padding: 3rem 3rem 0rem 0rem;
 }
 
 
-
+.me img{
+    height: 25rem;
+    position: absolute;
+   
+}
 
 /* =============scroll_down============== */
 .scroll_down{

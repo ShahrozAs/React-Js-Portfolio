@@ -16,7 +16,7 @@ const Portfolio = () => {
           <div className="portfolio_item-img">
            <img src={portfolio1} alt="portfolio1" />
           </div>
-          <h3>This is Title</h3>
+          <h3>Amazone Clone</h3>
          <div className="btns">
 
           <a href="/" target='_blank' className='btn' >Github</a>
@@ -27,7 +27,7 @@ const Portfolio = () => {
           <div className="portfolio_item-img">
            <img src={portfolio2} alt="portfolio1" />
           </div>
-          <h3>This is Title</h3>
+          <h3>UrbanElegance E-commerce Web-App</h3>
          <div className="btns">
 
           <a href="/" target='_blank' className='btn' >Github</a>
@@ -38,7 +38,7 @@ const Portfolio = () => {
           <div className="portfolio_item-img">
            <img src={portfolio3} alt="portfolio1" />
           </div>
-          <h3>This is Title</h3>
+          <h3>Shopper E-commerce Web-App</h3>
          <div className="btns">
 
           <a href="/" target='_blank' className='btn' >Github</a>
@@ -49,7 +49,7 @@ const Portfolio = () => {
           <div className="portfolio_item-img">
            <img src={portfolio4} alt="portfolio1" />
           </div>
-          <h3>This is Title</h3>
+          <h3>News Monkey</h3>
          <div className="btns">
 
           <a href="/" target='_blank' className='btn' >Github</a>
@@ -60,7 +60,7 @@ const Portfolio = () => {
           <div className="portfolio_item-img">
            <img src={portfolio5} alt="portfolio1" />
           </div>
-          <h3>This is Title</h3>
+          <h3>Netflix Clone</h3>
          <div className="btns">
 
           <a href="/" target='_blank' className='btn' >Github</a>
@@ -71,7 +71,7 @@ const Portfolio = () => {
           <div className="portfolio_item-img">
            <img src={portfolio6} alt="portfolio1" />
           </div>
-          <h3>This is Title</h3>
+          <h3>Spotify Clone</h3>
          <div className="btns">
 
           <a href="/" target='_blank' className='btn' >Github</a>
